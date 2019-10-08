@@ -1,0 +1,35 @@
+h1 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 16px;
+  margin: 3px;
+}
+
+.filter-container {
+  display: flex;
+  justify-content: left;
+  margin-bottom: 5px;
+}
+
+#filter {
+  width: 100%;
+  max-width: 383px;
+  box-sizing: border-box;
+}
+
+.btn-group {
+  margin-bottom: 5px;
+}
+
+.btn-group button {
+  margin: 0 5px 0 5px;
+}
+
+.delete {
+  color: red;
+}
+
+
+/*# sourceMappingURL=/style.a11e3109.css.map */
